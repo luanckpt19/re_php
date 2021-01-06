@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        p{
+            text-align: center;
+            font-weight: bold;
+            font-style: italic;
+        }
+        pre{
+            text-align: center;
+            position: absolute;
+            top:45px;
+            left: 20px;
+        }
+
+        .wrap {
+            border: 2px solid red;
+            width: 400px;
+            height: 400px;
+
+            position: relative;
+
+            margin-top: 100px;
+            margin-left: 200px;
+
+        }
+
+        .wrap .cell {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+        }
+
+        .cell1 {
+            color: white;
+            top: 0;
+            left: 0;
+            background: black;
+        }
+
+        .cell2 {
+            top: 0;
+            left: 100px;
+            background: pink;
+        }
+
+        .cell3 {
+            color: white;
+            top: 0;
+            left: 200px;
+            background: black;
+        }
+
+        .cell4 {
+            top: 0;
+            left: 300px;
+            background: pink;
+        }
+
+        .cell5 {
+            top: 100px;
+            left: 0px;
+            background: pink;
+        }
+
+        .cell6 {
+            top: 100px;
+            color: white;
+            left: 100px;
+            background: black;
+        }
+        .cell7 {
+            top: 100px;
+            left: 200px;
+            background: pink;
+        }
+        .cell8 {
+            top: 100px;
+            color: white;
+            left: 300px;
+            background: black;
+        }
+        .cell9 {
+            top: 200px;
+            color: white;
+            left: 0px;
+            background: black;
+        }
+        .cell10 {
+            top: 200px;
+            left: 100px;
+            background: pink;
+        }
+
+        .cell11 {
+            top: 200px;
+            left: 200px;
+            color: white;
+            background: black;
+        }
+        .cell12 {
+            top: 200px;
+            left: 300px;
+            background: pink;
+        }
+        .cell13 {
+            top: 300px;
+            left: 0px;
+            background: pink;
+        }
+        .cell14 {
+            top: 300px;
+            color: white;
+            left: 100px;
+            background: black;
+        }
+        .cell15 {
+            top: 300px;
+            left: 200px;
+            background:pink;
+        }
+        .cell16 {
+            top: 300px;
+            left: 300px;
+            background: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<p>
+    <br>đặt 1 thẻ luôn lấy thẻ mẹ của nó là gốc tọa độ để dịch chuyển
+    <br>- bàn cờ vua có position là relative
+    <br>- ô cờ vua có position absolute
+    <br>absolute nằm trong relative thì luôn lấy vị trí thẻ mẹ để làm tọa độ
+
+</p>
+
+<div class="wrap">
+    <div class="cell cell1">
+        <pre>cell 1</pre>
+    </div>
+
+    <div class="cell cell2">
+        <pre>cell 2</pre>
+    </div>
+
+    <div class="cell cell3">
+        <pre>cell 3</pre>
+    </div>
+
+    <div class="cell cell4">
+        <pre>cell 4</pre>
+    </div>
+
+    <div class="cell cell5">
+        <pre>cell 5</pre>
+    </div>
+
+    <div class="cell cell6"> <pre>cell 6</pre></div>
+    <div class="cell cell7"> <pre>cell 7</pre></div>
+    <div class="cell cell8"> <pre>cell 8</pre></div>
+    <div class="cell cell9"> <pre>cell 9</pre></div>
+    <div class="cell cell10"> <pre>cell 10</pre></div>
+    <div class="cell cell11"> <pre>cell 11</pre></div>
+    <div class="cell cell12"> <pre>cell 12</pre></div>
+    <div class="cell cell13"> <pre>cell 13</pre></div>
+    <div class="cell cell14"> <pre>cell 14</pre></div>
+    <div class="cell cell15"> <pre>cell 15</pre></div>
+    <div class="cell cell16"> <pre>cell 16</pre></div>
+</div>
+
+</body>
+</html>

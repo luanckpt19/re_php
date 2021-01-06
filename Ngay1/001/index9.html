@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .clearfix::after {
+            display: block;
+            clear: both;
+            content: "";
+        }
+
+        .wrap {
+            width: 800px;
+            /* căn giữa trình duyệt */
+            margin: 0 auto;
+            font-size: 24px;
+        }
+
+        .wrap nav ul {
+            padding: 0;
+            margin: 0;
+            /* bỏ đi các dấu chấm tròn */
+            list-style: none;
+            background-color: orange;
+        }
+
+        .wrap li {
+            position: relative;
+        }
+
+        .wrap ul li {
+            float: left;
+        }
+
+        .wrap ul li a{
+            display: inline-block;
+            background-color: orange;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+
+        .wrap ul li a:hover{
+            background-color: #ffa24c;
+        }
+
+        .wrap .submenu {
+            padding: 20px;
+            display: none;
+        }
+
+        .wrap .submenu li{
+            float: none;
+            background-color: #ffa24c;
+        }
+
+        /* chọn all thẻ li cấp 1 nằm trực tiếp trong thẻ ul
+        nhưng thẻ ul phải nằm trực tiếp trong thẻ nav */
+        .wrap ul > li:hover > .submenu{
+            display: block;
+
+        }
+        .wrap li .submenu li {
+            border-bottom: 1px solid whitesmoke;
+            background-color: #ffa24c;
+        }
+
+        /* level 2 */
+        .wrap li .submenu {
+            position: absolute;
+            left: 0;
+            top: 48px;
+            min-width: 200px;
+        }
+
+        /* level 3 , 4, 5, 6 ...*/
+        .wrap li .submenu .submenu{
+            left: 200px;
+            top: -20px;
+        }
+    </style>
+</head>
+<body>
+<pre>
+        dropdown menu
+        sử dụng thẻ relative cha chứa absolute con
+    </pre>
+
+<div class="wrap">
+    <nav>
+        <ul class="clearfix">
+            <li>
+                <a href="">Thời sự</a>
+                <ul class="submenu">
+                    <li>
+                        <a href="">Thời sự 1</a>
+                        <ul class="submenu">
+                            <li><a href="">Thời sự 1.1</a></li>
+                            <li><a href="">Thời sự 1.2</a></li>
+                            <li><a href="">Thời sự 1.3</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">Thời sự 2</a></li>
+                    <li><a href="">Thời sự 3</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="">Góc nhìn</a>
+                <ul class="submenu">
+                    <li><a href="">Góc nhìn 1</a></li>
+                    <li><a href="">Góc nhìn 2</a></li>
+                    <li><a href="">Góc nhìn 3</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="">Thế giới</a>
+                <ul class="submenu">
+                    <li><a href="">Thế giới 1</a></li>
+                    <li><a href="">Thế giới 2</a></li>
+                    <li><a href="">Thế giới 3</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="">Video</a>
+            </li>
+            <li>
+                <a href="">Kinh doanh</a>
+            </li>
+
+        </ul>
+    </nav>
+</div>
+
+
+
+</body>
+</html>
