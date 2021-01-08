@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ngay3/001/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/001/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/flex/flex-direction colum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/flex/flex-nowrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/flex/flex-wrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/flex/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/flex/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngay3/flex/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/005/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/005/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/006/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/006/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/006/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/006/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/006/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/006/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/007/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/007/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/007/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-content/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-content/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-content/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-content/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-content/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-content/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-item/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-item/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-item/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-item/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/align-item/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/flex-direction/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/justifly/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/justifly/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/justifly/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/justifly/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexboxcss-master/justifly/index5.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,58 +48,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngay3/flex/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngay3/flex/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ngay3/flex/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
+            <state relative-caret-position="540">
               <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flex-direction colum.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngay3/flex/flex-direction colum.html">
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ngay3/flex/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flex-wrap.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ngay3/flex/flex-wrap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flex-nowrap.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ngay3/flex/flex-nowrap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="234">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -147,12 +154,6 @@
               <item name="RE_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="RE_php" type="462c0819:PsiDirectoryNode" />
               <item name="ngay3" type="462c0819:PsiDirectoryNode" />
-              <item name="001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RE_php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RE_php" type="462c0819:PsiDirectoryNode" />
-              <item name="ngay3" type="462c0819:PsiDirectoryNode" />
               <item name="flex" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -171,6 +172,10 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\RE_php" />
+      <recent name="D:\xampp\htdocs\RE_php\ngay3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\re_php" />
     </key>
@@ -213,25 +218,26 @@
       <updated>1609937816664</updated>
       <workItem from="1609937817803" duration="3435000" />
       <workItem from="1610004403429" duration="6570000" />
-      <workItem from="1610104490238" duration="3082000" />
+      <workItem from="1610104490238" duration="3948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13087000" />
+    <option name="totallyTimeSpent" value="13953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16527545" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -331,20 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ngay3/flex/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ngay3/flex/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ngay3/flex/flex-direction colum.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
@@ -355,14 +347,64 @@
     <entry file="file://$PROJECT_DIR$/ngay3/flex/flex-nowrap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ngay3/flex/flex-wrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="214">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/justifly/index2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/flex-direction/index2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/align-item/index1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/align-content/index1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/justifly/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/align-content/index3.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/align-content/index4.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/005/index1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/005/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexboxcss-master/006/index1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngay3/flex/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngay3/flex/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
         </state>
       </provider>
     </entry>
