@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        a{
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.38;
+            color: rgb(120, 120, 120);
+            margin: 0px 0px 10px;
+        }
+        a, a:focus, a:hover, a:active {
+            outline: 0;
+            text-decoration: none;
+        }
+        .clearfix::after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+
+        .wrapper {
+            width: 900px;
+            /* căn giữa trình duyệt */
+            margin: 0 auto;
+            border: 1px solid #ccc;
+        }
+
+        h2 {
+            font-size: 32px;
+            font-weight: 300;
+            color: rgb(36, 36, 36);
+            margin-top: 0px;
+            margin-bottom: 10px;
+        }
+
+        .slogan {
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 1.38;
+            color: rgb(120, 120, 120);
+            margin: 0px 0px 10px;
+        }
+
+        .col-1 {
+            float: left;
+            width: 40%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .col-1 img {
+            margin-top: 70px;
+            margin-bottom: 20px;
+        }
+
+        .login {
+            float: left;
+            font-size: 16px;
+            width: 150px;
+            text-align: center;
+            border-bottom: 3px solid rgb(255, 255, 255);
+            padding: 15px 5px 7px;
+            color: rgb(120, 120, 120);
+            margin-left: 20px;
+            font-weight: 300;
+            display: block;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .regiter {
+            float: left;
+            font-size: 16px;
+            width: 150px;
+            text-align: center;
+            padding: 15px 5px 7px;
+            margin-left: 20px;
+            font-weight: 300;
+            display: block;
+            text-decoration: none;
+            cursor: pointer;
+            border-bottom: 3px solid rgb(27, 168, 255);
+            color: rgb(27, 168, 255);
+        }
+        .regiter a{
+            color: rgb(27, 168, 255);
+        }
+
+        .col-2 {
+            float: right;
+            width: 60%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .col-2 .form-row {
+            padding: 10px;
+        }
+
+        .col-2 .form-row label {
+            width: 100px;
+            display: inline-block;
+            box-sizing: border-box;
+        }
+
+        .col-2 .form-row input[type="text"] {
+            height: 34px;
+            border: 1px solid rgb(204, 204, 204);
+            border-radius: 4px;
+            padding: 6px 12px;
+            width: calc(100% - 110px);
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        .col-2 .row2 input[type="text"] {
+            width: 50%;
+        }
+
+        .check {
+            width: 131px;
+            height: 34px;
+            background: rgb(253, 216, 53);
+            border: 0px;
+            display: inline-block;
+            text-align: center;
+            border-radius: 0px 4px 4px 0px;
+            color: rgb(74, 74, 74);
+            padding: 9px 0px;
+            position: relative;
+            right: 7px;
+            outline: none;
+
+        }
+
+        .create-account {
+            padding: 0px;
+            color: rgb(74, 74, 74);
+            background: rgb(253, 216, 53);
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            border: 0px;
+            font-size: 14px;
+            border-radius: 4px;
+            user-select: none;
+            margin-bottom: 15px;
+            width: 74%;
+            height: 41px;
+            line-height: 41px;
+            outline: none;
+            position: relative;
+            left: 113px;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="wrapper clearfix">
+    <div class="col-1">
+        <h2>Tạo tài khoản</h2>
+        <p class="slogan">Tạo tài khoản để theo dõi đơn hàng, lưu
+            danh sách sản phẩm yêu thích, nhận
+            nhiều ưu đãi hấp dẫn.</p>
+
+        <img src="https://frontend.tikicdn.com/_desktop-next/static/img/graphic-map.png" alt="">
+    </div>
+    <div class="col-3">
+        <div class="login"> <a href="login.html">Đăng nhập</a></div>
+        <div class="regiter" > <a href="register.html">Tạo tài khoản</a></div>
+    </div>
+    <div class="col-2">
+        <form action="">
+            <div class="form-row">
+                <label>Họ Tên</label>
+                <input type="text" name="full_name" placeholder="Nhập họ tên" value="">
+            </div>
+
+            <div class="form-row row2">
+                <label>SĐT</label>
+                <input type="text" name="phone_number" placeholder="Nhập số điện thoại" value="">
+                <button class="check">Gửi mã xác thực</button>
+
+            </div>
+
+            <div class="form-row">
+                <label>Mã Xác Thực</label>
+                <input type="text" name="otp_code" placeholder="Nhập mã xác thực tới số điện thoại trên" value="">
+            </div>
+
+            <div class="form-row">
+                <label>Email</label>
+                <input type="text" name="email" placeholder="Nhập email" value="">
+            </div>
+
+            <div class="form-row">
+                <label>Mật Khẩu</label>
+                <input type="text" name="password" placeholder="Mật khẩu từ 6 đến 32 ký tự" value="">
+            </div>
+            <div style="margin: 20px 0px;">
+                <label style=" position: relative;left: 10px; top: -5px;">Giới tính</label>
+                <span>
+                    <label style="cursor: pointer; position: relative; left: 51px;">
+                        <label style="margin-top: -4px;">
+                            <input name="gender" type="radio" value="male" style="height: 20px; width: 20px;">
+                        </label>
+                        <span style="position: relative; top:-4px;">Nam</span>
+                    </label>
+                    <label style="cursor: pointer;">
+                        <label style="margin-top: -4px; margin-left: 120px;">
+                            <input name="gender" type="radio" value="female" style="height: 20px; width: 20px;">
+                        </label>
+                        <span style="position: relative; top:-4px;">Nữ</span>
+                    </label>
+                </span>
+            </div>
+            <p style="margin: 10px 0px 15px; font-size: 13px; line-height: 22px;position: relative; left: 115px;">
+                <label style="margin-top: -3px;">
+                    <input name="newsletter" type="checkbox" value="false" style="height: 20px; width: 20px;">
+                </label>
+                <span style="position: relative;top:-4px;"> Nhận các thông tin và chương trình khuyến mãi của Tiki qua email.</span>
+            </p>
+            <button class="create-account"> Tạo Tài Khoản</button>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
