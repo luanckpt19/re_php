@@ -16,13 +16,13 @@
         }
 
         .page-wrap header {
-            background-color: yellowgreen;
+            background-image: linear-gradient(to right,greenyellow , floralwhite);
             padding: 30px;
             text-align: center;
         }
 
         .page-wrap footer {
-            background-color: orange;
+            background-image: linear-gradient(to right,orange , floralwhite);
             padding: 30px;
             text-align: center;
         }
@@ -33,19 +33,19 @@
 
         .content .sidebar1 {
             flex: 25%;
-            background-color: gainsboro;
+            background: gainsboro;
             height: 300px;
         }
 
         .content main {
             flex: 50%;
-            background-color: pink;
+            background-image: linear-gradient(to right,pink , floralwhite);
             height: 300px;
         }
 
         .content .sidebar2{
             flex: 25%;
-            background-color: gainsboro;
+            background-image: linear-gradient(to right,gainsboro , floralwhite);
             height: 300px;
         }
 
@@ -53,6 +53,14 @@
             .content {
                 display: flex;
                 flex-direction: column;
+                height: 300px;
+            }
+            h1{
+                text-align: center;
+                color: lightpink;
+            }
+            .content .sidebar1{
+                background-image: linear-gradient(to right,gainsboro , floralwhite);
             }
         }
 
