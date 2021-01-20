@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre>
+    Bộ chọn trong Javacript (Javacript selector)
+    - chọn theo ID
+    document.getElementById("id");
+
+    .innerText dùng lấy ra hoặc gán vào 1 thẻ
+
+</pre>
+<p id="p1"> Nội dung của thẻ p1</p>
+<script>
+    var p1 = document.getElementById("p1");
+    console.log(p1);
+
+    // lấy ra nội dung của thẻ hiện tại
+    var txtP1 = document.getElementById("p1").innerText;
+    console.log(txtP1);
+
+    // Thay đổi nội dung bên trong thẻ P1
+    document.getElementById("p1").innerText = "ngày 20 tháng 10 năm 1999";
+</script>
+</body>
+</html>

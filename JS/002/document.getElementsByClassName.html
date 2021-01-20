@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre>
+    Bộ chọn theo class trong js
+     document.getElementsByClassName("Tên class")
+    lệnh này trả về HTMLCollection 1 tập hợp gồm nhiều đối tượng
+</pre>
+
+<p class="para">thẻ p1</p>
+<p class="para"> thẻ p2</p>
+<p class="para"> thẻ p3</p>
+
+<script>
+    var para = document.getElementsByClassName("para");
+    //Trả về HTMLCollection gần như array
+    // bắt đầu key từ 0
+    console.log(para);
+
+    var a = document.getElementsByClassName("para")[0].innerHTML= "Hà Nội";
+    var a = document.getElementsByClassName("para")[1].innerHTML= "Phú Thọ";
+    var a = document.getElementsByClassName("para")[2].innerHTML= "Việt Trì";
+</script>
+</body>
+</html>
