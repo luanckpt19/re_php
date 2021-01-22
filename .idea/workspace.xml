@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/002/EX_maytinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/document.getElementByID.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/document.getElementsByClassName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/document.querySelectorAll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/index11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/index9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/innerHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/mang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/onclick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/setAttribute(name, value).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/002/đổimàu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/Bàn cờ vua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/Lưu Ý.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/Ngày.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/Năm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/Tháng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/break.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/continue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/do...while.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/else-if .html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/for_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/for_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/switch-case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/vòng lặp for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/003/while.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/002/EX_maytinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/002/Máy Tính.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +168,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -226,7 +229,14 @@
       <workItem from="1610535643692" duration="8899000" />
       <workItem from="1610708799438" duration="9828000" />
       <workItem from="1611126571133" duration="1389000" />
-      <workItem from="1611129526463" duration="2415000" />
+      <workItem from="1611129526463" duration="4432000" />
+      <workItem from="1611140455261" duration="9618000" />
+      <workItem from="1611150764556" duration="181000" />
+      <workItem from="1611218394334" duration="616000" />
+      <workItem from="1611219754125" duration="13000" />
+      <workItem from="1611304675396" duration="1141000" />
+      <workItem from="1611312811880" duration="632000" />
+      <workItem from="1611313579238" duration="456000" />
     </task>
     <servers />
   </component>
@@ -259,6 +269,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
