@@ -2,22 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/003/Bàn cờ vua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/Lưu Ý.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/Ngày.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/Năm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/Tháng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/break.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/continue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/do...while.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/else-if .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/for_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/for_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/switch-case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/vòng lặp for.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/003/while.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/for...of.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/002/gắn sk 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/002/gắn sk vào thẻ 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/002/gắn sự kiện vào thẻ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/const.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/let.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/let2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/object/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngay11/object/on_Submit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngày12/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngày12/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngày12/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngày12/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/ngày12/index5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/002/EX_maytinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/002/Máy Tính.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,19 +203,24 @@
       <recent name="D:\xampp\htdocs\RE_php\ngay3" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.flex-wrap.html">
+  <component name="RunManager" selected="JavaScript Debug.index3.html">
     <configuration name="flex-nowrap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RE_php/ngay3/flex/flex-nowrap.html">
       <method v="2" />
     </configuration>
     <configuration name="flex-wrap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RE_php/ngay3/flex/flex-wrap.html">
       <method v="2" />
     </configuration>
+    <configuration name="index3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RE_php/JS/ngày12/index3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.flex-nowrap.html" />
       <item itemvalue="JavaScript Debug.flex-wrap.html" />
+      <item itemvalue="JavaScript Debug.index3.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index3.html" />
         <item itemvalue="JavaScript Debug.flex-wrap.html" />
         <item itemvalue="JavaScript Debug.flex-nowrap.html" />
       </list>
@@ -236,7 +251,15 @@
       <workItem from="1611219754125" duration="13000" />
       <workItem from="1611304675396" duration="1141000" />
       <workItem from="1611312811880" duration="632000" />
-      <workItem from="1611313579238" duration="456000" />
+      <workItem from="1611313579238" duration="9750000" />
+      <workItem from="1611737926670" duration="52000" />
+      <workItem from="1611745535485" duration="3720000" />
+      <workItem from="1612338494043" duration="8000" />
+      <workItem from="1613062151099" duration="835000" />
+      <workItem from="1615305223589" duration="49000" />
+      <workItem from="1615305305840" duration="35000" />
+      <workItem from="1615305972187" duration="100000" />
+      <workItem from="1615377308187" duration="570000" />
     </task>
     <servers />
   </component>

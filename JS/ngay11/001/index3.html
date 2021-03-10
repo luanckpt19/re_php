@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<ul id="list">
+
+</ul>
+<script>
+    // sử dụng vòng lặp while duyệt mảng
+    var cities = ["hà nội", "bắc ninh", "bắc giang", "hải phòng"];
+    var arrLength = cities.length;
+    console.log(arrLength);
+    var html = "";
+    var i = 0;
+    do{
+        item = "<li>" + cities[i] + "</li>";
+        console.log(item);
+        html = html + item;
+        i++;
+    }while (i < arrLength);
+    console.log(html);
+    document.getElementById("list").innerHTML = html;
+</script>
+</body>
+</html>
