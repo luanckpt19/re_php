@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/for...of.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/001/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/002/gắn sk 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/002/gắn sk vào thẻ 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/002/gắn sự kiện vào thẻ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/const.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/let.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/004/let2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/Date_Time/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngay11/object/on_Submit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngày12/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngày12/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngày12/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngày12/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ngày12/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Ngày 16/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/images/Untitled-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,12 +51,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,7 +186,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PSD/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -196,6 +202,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\RE_php\PSD\images" />
       <recent name="D:\xampp\htdocs\re_php" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -259,7 +266,15 @@
       <workItem from="1615305223589" duration="49000" />
       <workItem from="1615305305840" duration="35000" />
       <workItem from="1615305972187" duration="100000" />
-      <workItem from="1615377308187" duration="570000" />
+      <workItem from="1615377308187" duration="7196000" />
+      <workItem from="1615534025815" duration="588000" />
+      <workItem from="1615716661789" duration="9713000" />
+      <workItem from="1615797941780" duration="2923000" />
+      <workItem from="1615877218503" duration="3281000" />
+      <workItem from="1615885107219" duration="619000" />
+      <workItem from="1615890810677" duration="3554000" />
+      <workItem from="1616059523195" duration="1893000" />
+      <workItem from="1616154825323" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -304,9 +319,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/flexboxcss-master/flex-direction/index10.html">
