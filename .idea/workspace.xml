@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Ngày 14/001/index7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTE.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 16/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/images/Untitled-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/images/portfolio-website-template_13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PSD/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Ngày 16/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 16/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,6 +257,7 @@
       <workItem from="1615890810677" duration="3554000" />
       <workItem from="1616059523195" duration="1893000" />
       <workItem from="1616154825323" duration="1115000" />
+      <workItem from="1616412643810" duration="31000" />
     </task>
     <servers />
   </component>
