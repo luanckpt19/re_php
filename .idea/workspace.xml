@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PHP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/.idea/PHP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/002/car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/002/car1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/002/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/002/index4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/003/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/003/index1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/destructor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/destructor2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/student2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/student3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 20/student4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/login/proccess.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/login/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/.idea/login.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/JS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/proccess.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Chiêm tinh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Chiêm tinh/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -290,6 +263,8 @@
       <workItem from="1617608904136" duration="122000" />
       <workItem from="1617780679468" duration="320000" />
       <workItem from="1617781077125" duration="51000" />
+      <workItem from="1617781282353" duration="5168000" />
+      <workItem from="1617969957637" duration="111000" />
     </task>
     <servers />
   </component>
