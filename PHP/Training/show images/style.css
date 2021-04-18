@@ -1,0 +1,28 @@
+.content{
+    margin: 20px auto;
+    width: 100%;
+    border: 1px solid pink;
+    padding: 10px;
+
+}
+.content h1{
+    color: pink;
+    text-align: center;
+}
+.content div.images{
+    margin: 20px 0;
+    text-align: center;
+}
+.content div.images a{
+    display: inline-block;
+    background: #6a6f97;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: #ffffff;
+
+}
+.content div.images a:hover{
+    background-color: antiquewhite;
+    color: pink;
+    border-radius: 30%;
+}

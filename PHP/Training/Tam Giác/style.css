@@ -1,0 +1,19 @@
+.content{
+    margin: 20px auto;
+    width: 600px;
+    border: 1px solid pink;
+    padding: 10px;
+    min-height: 200px;
+}
+.content ul{
+
+    margin: 23px;
+}
+.content ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 30px;
+}
+.content ul li a{
+    display: block;
+}
