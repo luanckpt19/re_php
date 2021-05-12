@@ -1,0 +1,48 @@
+﻿<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<script language="javascript">
+	function ucln()
+	{	
+		var a=document.f.txta.value*1;
+		var b=document.f.txtb.value*1;
+		var d=0;
+			while (b!=0)
+		{ d=a % b; a=b; b=d; }
+		document.f.txtucln.value=a;
+		//alert("UCLN la " + a);
+		return(false);
+	}
+</script>
+<center>
+<form name="f" method="POST" action onsubmit="return false;" onmouseover="document.f.txtb.focus();">
+	<table border="1" width="21%" id="table1" style="border-width: 0px">
+		<tr>
+			<td align="right" style="border-style: none; border-width: medium"><b>Số a </b></td>
+			<td style="border-style: none; border-width: medium"><input type="text" name="txta" size="20"></td>
+		</tr>
+		<tr>
+			<td align="right" style="border-style: none; border-width: medium"><b>Số b</b></td>
+			<td style="border-style: none; border-width: medium"><input type="text" name="txtb" size="20"></td>
+		</tr>
+		<tr>
+			<td align="right" style="border-style: none; border-width: medium"><b>UCLN</b></td>
+			<td style="border-style: none; border-width: medium"><input type="text" name="txtucln" size="20" readonly></td>
+		</tr>
+		<tr>
+			<td style="border-style: none; border-width: medium"></td>
+			<td style="border-style: none; border-width: medium"><input type="submit" name="but1" value="Tính" onclick="ucln();">
+			<input type="reset" name="but2" value="Xóa"> </td>
+		</tr>
+	</table>
+</form>
+</center>
+
+</body>
+
+</html>

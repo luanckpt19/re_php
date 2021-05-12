@@ -46,9 +46,6 @@ if (isset($_POST) && count($_POST) > 0) {
 
     if (is_array($errorAll) && (count($errorAll) == 0)) {
         // validate đúng in ra thông tin của người dùng đã nhập
-        ?>
-
-        <?php
     } else {
         // validate sai
         // in ra lỗi cho người dùng biết họ đã nhập sai input nào

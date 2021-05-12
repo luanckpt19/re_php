@@ -33,7 +33,7 @@ if (isset($_POST["day"]) && isset($_POST["month"])) {
                 if ($day >= 20) {
                     $image = "aquarius";
                     $name = "Bảo Bình";
-                    $time = "20/01  - 19/2";
+                    $time = "20/create  - 19/2";
                 }
                 if ($day <1 || $day > 31) $flagShow = false;
                 break;
