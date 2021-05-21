@@ -5,113 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3801ab-b8db-4b49-9393-4919bd030ed0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/.idea/JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/.idea/Web giới thiệu bản thân.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/CV2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/22473-9f5676a161fbfc1189438877c718c71b-ohaytv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/97461162_239267650634331_5441046518272360448_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/97996838_245987119834536_1003170902826811392_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/Hiểu-rõ-hơn-về-ngành-Công-nghệ-sinh-học.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/Untitled-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/cc-bg-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/cong-nghe-thuc-pham-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/hinh-nen-mua-thu-dep-nhat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/lap-camera-quan-cafe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/lap-trinh-vien-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/lap-trinh-vien.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/phong_tu_huyet_trung_ngan_vit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/staticmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/thi-cong-mang-lan2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/thiet-ke-website-ban-hang-chuyen-nghiep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/images/unnamed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/core/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/core/jquery.3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/core/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/now-ui-kit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/plugins/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/plugins/bootstrap-switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/plugins/jquery.sharrre.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/js/plugins/nouislider.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/CV html/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 22/upload-file/uploads/914d154974e486badff5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/002/connect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/002/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/002/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/002/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/002/update.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/Products/connect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/Products/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/Products/createTable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/Products/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/Products/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/Products/update.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index7.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Training/array/index1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Training/function/Box.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Training/function/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/Training/function/index2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/dump-sql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/uploads/134689616_234473738139328_6208494044081591985_o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/uploads/590e5de8cc62e-kim-so-hyun-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/UsersManageProject/uploads/914d154974e486badff5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Lists/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Lists/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Login/lap-trinh-vien-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Login/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Máy Tính/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Máy Tính/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Máy Tính/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namespace/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namespace/math/circle/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/namespace/math/constant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP__OOP/autoload/app/Http/Controllers/HomeControllers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP__OOP/autoload/app/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP__OOP/autoload/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP__OOP/autoload/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP__OOP/autoload/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/001/Họ Tên.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/001/Họ Tên.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/001/Ngày Sinh.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/001/Ngày Sinh.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/001/SDT.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/001/SDT.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/001/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/001/email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/001/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/001/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/001/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/001/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/Dates_Times/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/Dates_Times/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 19/Dates_Times/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 19(validate)/Dates_Times/index2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/01/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Ngày 24 ( SQL)/create/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Training/Chiêm tinh/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Training/Chiêm tinh/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/login/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/proccess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/.idea/Web giới thiệu bản thân.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/.idea/Web giới thiệu bản thân.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/CV2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/CV2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/css/aos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/22473-9f5676a161fbfc1189438877c718c71b-ohaytv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/22473-9f5676a161fbfc1189438877c718c71b-ohaytv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/97461162_239267650634331_5441046518272360448_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/97461162_239267650634331_5441046518272360448_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/97996838_245987119834536_1003170902826811392_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/97996838_245987119834536_1003170902826811392_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/Hiểu-rõ-hơn-về-ngành-Công-nghệ-sinh-học.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/Hiểu-rõ-hơn-về-ngành-Công-nghệ-sinh-học.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/Untitled-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/Untitled-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/cc-bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/cc-bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/cong-nghe-thuc-pham-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/cong-nghe-thuc-pham-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/graphic-design-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/graphic-design-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/graphic-design-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/graphic-design-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/graphic-design-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/hinh-nen-mua-thu-dep-nhat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/hinh-nen-mua-thu-dep-nhat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/lap-camera-quan-cafe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/lap-camera-quan-cafe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/lap-trinh-vien-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/lap-trinh-vien-thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/lap-trinh-vien.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/lap-trinh-vien.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/phong_tu_huyet_trung_ngan_vit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/phong_tu_huyet_trung_ngan_vit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/staticmap.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/staticmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/thi-cong-mang-lan2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/thi-cong-mang-lan2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/thiet-ke-website-ban-hang-chuyen-nghiep.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/thiet-ke-website-ban-hang-chuyen-nghiep.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/images/unnamed.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/images/unnamed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/aos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/core/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/core/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/core/jquery.3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/core/jquery.3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/core/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/core/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/now-ui-kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/now-ui-kit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/plugins/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/plugins/bootstrap-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/plugins/bootstrap-switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/plugins/bootstrap-switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/plugins/jquery.sharrre.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/plugins/jquery.sharrre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/js/plugins/nouislider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/js/plugins/nouislider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CV html/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/CV html/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namespace/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP__OOP/namespace/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namespace/math/circle/circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP__OOP/namespace/math/circle/circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namespace/math/constant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP__OOP/namespace/math/constant.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +217,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript/Login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -296,6 +239,8 @@
       <recent name="D:\xampp\htdocs\re_php" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\RE_php" />
+      <recent name="C:\xampp\htdocs\RE_php\PHP__OOP" />
       <recent name="D:\xampp\htdocs\RE_php" />
       <recent name="D:\xampp\htdocs\RE_php\ngay3" />
     </key>
@@ -375,7 +320,9 @@
       <workItem from="1620465265816" duration="1628000" />
       <workItem from="1620800651076" duration="2488000" />
       <workItem from="1620826285806" duration="23000" />
-      <workItem from="1620826311111" duration="2739000" />
+      <workItem from="1620826311111" duration="3614000" />
+      <workItem from="1621066188388" duration="2459000" />
+      <workItem from="1621410508211" duration="3883000" />
     </task>
     <servers />
   </component>
